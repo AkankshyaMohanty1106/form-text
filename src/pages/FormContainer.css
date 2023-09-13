@@ -1,0 +1,7 @@
+:where(.css-dev-only-do-not-override-18iikkb).ant-form-item .ant-form-item-label >label::after {
+    content: "";
+    position: relative;
+    margin-block: 0;
+    margin-inline-start: 2px;
+    margin-inline-end: 8px;
+}

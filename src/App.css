@@ -13,6 +13,23 @@
   }
 }
 
+.form-container {
+  max-width: 1000px;
+  /* Adjust the maximum width as needed */
+  margin: 0 auto; /* Center the form container horizontally */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  overflow-y: "true";
+}
+
+.form-container h2 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -36,3 +53,4 @@
     transform: rotate(360deg);
   }
 }
+
